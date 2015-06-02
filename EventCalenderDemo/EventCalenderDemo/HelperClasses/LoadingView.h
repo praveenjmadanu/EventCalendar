@@ -12,5 +12,5 @@
 @interface LoadingView : UIView {
     AppDelegate *mAppDelegate_;
 }
-
+//test Git
 @end
