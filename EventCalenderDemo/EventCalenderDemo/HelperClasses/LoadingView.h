@@ -13,4 +13,5 @@
     AppDelegate *mAppDelegate_;
 }
 //test Git
+//test terminal
 @end
