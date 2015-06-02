@@ -12,7 +12,6 @@
 @synthesize mNetworkUIDelegate_,mLoadingView_;
 
 static WebRequestController *requestControllerInstance = nil ;
-//comment 
 + (WebRequestController*)instance {
     @synchronized (self){
         if (nil==requestControllerInstance) {
